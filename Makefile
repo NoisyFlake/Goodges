@@ -1,7 +1,8 @@
-ARCHS = arm64
+ARCHS = arm64 arm64e 
+
 FINALPACKAGE = 1
 
-include $(THEOS)/makefiles/common.mk
+include ~/theos/makefiles/common.mk
 
 TWEAK_NAME = Goodges
 

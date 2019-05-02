@@ -1,6 +1,8 @@
-ARCHS = arm64
+ARCHS = arm64 arm64e
 
-include $(THEOS)/makefiles/common.mk
+TARGET = iphone:12.1:12.0.1
+
+include ~/theos/makefiles/common.mk
 
 BUNDLE_NAME = GoodgesPrefs
 
