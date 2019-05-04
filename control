@@ -1,7 +1,7 @@
 Package: com.noisyflake.goodges2
 Name: Goodges 2
-Depends: mobilesubstrate, firmware (>= 11.0), org.thebigboss.libcolorpicker, applist
-Version: 2.1.3
+Depends: mobilesubstrate, firmware (>= 11.0), me.nepeta.libcolorpicker, applist
+Version: 2.1.5
 Architecture: iphoneos-arm
 Description: Good bye badges, hello labels !
 Depiction: https://apt.noisyflake.com/depictions/index.html?id=com.noisyflake.goodges2
